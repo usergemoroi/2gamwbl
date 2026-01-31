@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="BhaiGaandMarao">24.0dip</dimen>
+    <dimen name="APKTOOL_DUPLICATE_dimen_0x7f060001">80.0dip</dimen>
+    <dimen name="APKTOOL_DUPLICATE_dimen_0x7f060002">64.0dip</dimen>
+    <dimen name="APKTOOL_DUPLICATE_dimen_0x7f060003">8.0dip</dimen>
+    <dimen name="APKTOOL_DUPLICATE_dimen_0x7f060004">8.0dip</dimen>
+    <dimen name="APKTOOL_DUPLICATE_dimen_0x7f060017">580.0dip</dimen>
+    <dimen name="APKTOOL_DUPLICATE_dimen_0x7f06007d">320.0dip</dimen>
+    <dimen name="APKTOOL_DUPLICATE_dimen_0x7f060080">0.0dip</dimen>
+    <dimen name="APKTOOL_DUPLICATE_dimen_0x7f060082">2.0dip</dimen>
+    <dimen name="APKTOOL_DUPLICATE_dimen_0x7f060085">576.0dip</dimen>
+    <dimen name="APKTOOL_DUPLICATE_dimen_0x7f060086">320.0dip</dimen>
+    <item type="dimen" name="APKTOOL_DUPLICATE_dimen_0x7f060089">@dimen/APKTOOL_DUPLICATE_dimen_0x7f060088</item>
+    <dimen name="APKTOOL_DUPLICATE_dimen_0x7f060266">64.0dip</dimen>
+    <dimen name="APKTOOL_DUPLICATE_dimen_0x7f060317">64.0dip</dimen>
+</resources>

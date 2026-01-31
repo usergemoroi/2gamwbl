@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="animator" name="BhaiGaandMarao">Obs/ۜۥ.xml</item>
+    <item type="animator" name="APKTOOL_DUPLICATE_animator_0x7f020001">Obs/۫ۡ.xml</item>
+    <item type="animator" name="APKTOOL_DUPLICATE_animator_0x7f020002">Obs/ۖۥ.xml</item>
+    <item type="animator" name="APKTOOL_DUPLICATE_animator_0x7f020003">Obs/۫ۖ.xml</item>
+    <item type="animator" name="APKTOOL_DUPLICATE_animator_0x7f020004">Obs/ۥۥ.xml</item>
+    <item type="animator" name="APKTOOL_DUPLICATE_animator_0x7f020005">Obs/ۤۛ.xml</item>
+    <item type="animator" name="APKTOOL_DUPLICATE_animator_0x7f020006">Obs/۬ۘ.xml</item>
+    <item type="animator" name="APKTOOL_DUPLICATE_animator_0x7f020007">Obs/ۢ۠.xml</item>
+    <item type="animator" name="APKTOOL_DUPLICATE_animator_0x7f020008">Obs/ۧۛ.xml</item>
+    <item type="animator" name="APKTOOL_DUPLICATE_animator_0x7f020015">Obs/ۥ۫.xml</item>
+    <item type="animator" name="APKTOOL_DUPLICATE_animator_0x7f020016">Obs/ۦۤ.xml</item>
+    <item type="animator" name="APKTOOL_DUPLICATE_animator_0x7f020017">Obs/ۢۗ.xml</item>
+    <item type="animator" name="APKTOOL_DUPLICATE_animator_0x7f020018">Obs/ۤۡ.xml</item>
+    <item type="animator" name="APKTOOL_DUPLICATE_animator_0x7f02001d">Obs/۟ۜ.xml</item>
+    <item type="animator" name="APKTOOL_DUPLICATE_animator_0x7f02001e">Obs/ۛۛ.xml</item>
+    <item type="animator" name="APKTOOL_DUPLICATE_animator_0x7f02001f">Obs/ۘۨ.xml</item>
+</resources>

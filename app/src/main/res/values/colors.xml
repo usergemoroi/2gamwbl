@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="color" name="BhaiGaandMarao">Obs/ۢۙ.xml</item>
+    <item type="color" name="APKTOOL_DUPLICATE_color_0x7f050001">Obs/ۨۢ.xml</item>
+    <item type="color" name="APKTOOL_DUPLICATE_color_0x7f050002">Obs/۫ۘ.xml</item>
+    <item type="color" name="APKTOOL_DUPLICATE_color_0x7f050003">Obs/ۜۜ.xml</item>
+    <color name="APKTOOL_DUPLICATE_color_0x7f050005">#ff000000</color>
+    <color name="APKTOOL_DUPLICATE_color_0x7f050006">#ffffffff</color>
+    <item type="color" name="APKTOOL_DUPLICATE_color_0x7f050007">Obs/ۖۤ.xml</item>
+    <item type="color" name="APKTOOL_DUPLICATE_color_0x7f050008">Obs/۟ۙ.xml</item>
+    <item type="color" name="APKTOOL_DUPLICATE_color_0x7f050009">Obs/ۤ۫.xml</item>
+    <item type="color" name="APKTOOL_DUPLICATE_color_0x7f05000a">Obs/ۖۚ.xml</item>
+    <item type="color" name="APKTOOL_DUPLICATE_color_0x7f05000b">Obs/ۡۧ.xml</item>
+    <item type="color" name="APKTOOL_DUPLICATE_color_0x7f05000c">Obs/ۜۧ.xml</item>
+    <item type="color" name="APKTOOL_DUPLICATE_color_0x7f05000d">Obs/ۦۚ.xml</item>
+    <color name="APKTOOL_DUPLICATE_color_0x7f05000e">#ff7fa87f</color>
+    <color name="APKTOOL_DUPLICATE_color_0x7f05000f">@android:color/black</color>
+    <color name="APKTOOL_DUPLICATE_color_0x7f050010">@android:color/black</color>
+    <item type="color" name="APKTOOL_DUPLICATE_color_0x7f050011">Obs/ۛۖ.xml</item>
+    <item type="color" name="APKTOOL_DUPLICATE_color_0x7f050012">Obs/۟ۛ.xml</item>
+    <item type="color" name="APKTOOL_DUPLICATE_color_0x7f050013">Obs/ۧۡ.xml</item>
+    <item type="color" name="APKTOOL_DUPLICATE_color_0x7f050014">Obs/ۘۧ.xml</item>
+    <item type="color" name="APKTOOL_DUPLICATE_color_0x7f050015">Obs/ۧ۬.xml</item>
+    <item type="color" name="APKTOOL_DUPLICATE_color_0x7f050016">Obs/ۗۛ.xml</item>
+    <item type="color" name="APKTOOL_DUPLICATE_color_0x7f050017">Obs/ۖۡ.xml</item>
+    <item type="color" name="APKTOOL_DUPLICATE_color_0x7f050018">Obs/ۘ۟.xml</item>
+    <color name="APKTOOL_DUPLICATE_color_0x7f050019">@color/APKTOOL_DUPLICATE_color_0x7f050221</color>
+    <color name="APKTOOL_DUPLICATE_color_0x7f05001a">@color/APKTOOL_DUPLICATE_color_0x7f050222</color>
+    <color name="APKTOOL_DUPLICATE_color_0x7f05001b">#1f000000</color>
+    <color name="APKTOOL_DUPLICATE_color_0x7f05001c">#8a000000</color>
+    <color name="APKTOOL_DUPLICATE_color_0x7f05001d">@color/APKTOOL_DUPLICATE_color_0x7f050271</color>
+    <color name="APKTOOL_DUPLICATE_color_0x7f05001e">@android:color/white</color>
+    <color name="APKTOOL_DUPLICATE_color_0x7f05001f">@color/APKTOOL_DUPLICATE_color_0x7f050272</color>
+    <color name="APKTOOL_DUPLICATE_color_0x7f050020">@color/APKTOOL_DUPLICATE_color_0x7f05026f</color>
+    <color name="APKTOOL_DUPLICATE_color_0x7f050023">#ff438bc7</color>
+    <color name="APKTOOL_DUPLICATE_color_0x7f050024">#ff346b99</color>
+    <color name="APKTOOL_DUPLICATE_color_0x7f050025">#ff16243d</color>
+    <color name="APKTOOL_DUPLICATE_color_0x7f050026">#ff16243d</color>
+    <color name="APKTOOL_DUPLICATE_color_0x7f050027">#ffe94d35</color>
+    <color name="APKTOOL_DUPLICATE_color_0x7f050029">#ffffffff</color>
+    <color name="APKTOOL_DUPLICATE_color_0x7f05002b">#80ffffff</color>
+    <color name="APKTOOL_DUPLICATE_color_0x7f05002c">#80000000</color>
+    <color name="APKTOOL_DUPLICATE_color_0x7f05002f">@android:color/white</color>
+    <color name="APKTOOL_DUPLICATE_color_0x7f050030">@android:color/black</color>
+    <color name="APKTOOL_DUPLICATE_color_0x7f050031">#ff5a595b</color>
+    <color name="APKTOOL_DUPLICATE_color_0x7f050032">#ffd6d7d7</color>
+    <item type="color" name="APKTOOL_DUPLICATE_color_0x7f05003b">Obs/ۙۨ.xml</item>
+    <color name="APKTOOL_DUPLICATE_color_0x7f05003c">#ff121212</color>
+    <color name="APKTOOL_DUPLICATE_color_0x7f05003d">#ffcf6679</color>
+    <color name="APKTOOL_DUPLICATE_color_0x7f05003e">#ffffffff</color>
+    <color name="APKTOOL_DUPLICATE_color_0x7f05003f">#ff000000</color>
+    <color name="APKTOOL_DUPLICATE_color_0x7f050040">#ff000000</color>
+    <color name="APKTOOL_DUPLICATE_color_0x7f050041">#ff000000</color>
+    <color name="APKTOOL_DUPLICATE_color_0x7f050042">#ffffffff</color>
+    <color name="APKTOOL_DUPLICATE_color_0x7f050043">#ffba86fc</color>
+    <color name="APKTOOL_DUPLICATE_color_0x7f050044">#ff000000</color>
+    <color name="APKTOOL_DUPLICATE_color_0x7f050045">#ff3700b3</color>
+    <color name="APKTOOL_DUPLICATE_color_0x7f050046">#ff03dac6</color>
+    <color name="APKTOOL_DUPLICATE_color_0x7f050047">#ff03dac6</color>
+    <color name="APKTOOL_DUPLICATE_color_0x7f050048">#ff121212</color>
+    <color name="APKTOOL_DUPLICATE_color_0x7f050049">#ffffffff</color>
+    <color name="APKTOOL_DUPLICATE_color_0x7f05004a">#ffb00020</color>
+    <color name="APKTOOL_DUPLICATE_color_0x7f05004b">#ff000000</color>
+    <color name="APKTOOL_DUPLICATE_color_0x7f05004c">#ffffffff</color>
+    <color name="APKTOOL_DUPLICATE_color_0x7f05004d">#ffffffff</color>
+    <color name="APKTOOL_DUPLICATE_color_0x7f05004e">#ff000000</color>
+    <color name="APKTOOL_DUPLICATE_color_0x7f05004f">#ff000000</color>
+    <color name="APKTOOL_DUPLICATE_color_0x7f050050">#ff6200ee</color>
+    <color name="APKTOOL_DUPLICATE_color_0x7f050051">#ff3700b3</color>
+    <color name="APKTOOL_DUPLICATE_color_0x7f050052">#ff3700b3</color>
+    <color name="APKTOOL_DUPLICATE_color_0x7f050053">#ff03dac6</color>
+    <color name="APKTOOL_DUPLICATE_color_0x7f050054">#ff018786</color>
+    <color name="APKTOOL_DUPLICATE_color_0x7f050055">#ffffffff</color>
+    <item type="color" name="APKTOOL_DUPLICATE_color_0x7f050056">Obs/۠ۚ.xml</item>
+    <item type="color" name="APKTOOL_DUPLICATE_color_0x7f05005e">Obs/ۥۘ.xml</item>
+    <color name="APKTOOL_DUPLICATE_color_0x7f05005f">#ff323232</color>
+    <color name="APKTOOL_DUPLICATE_color_0x7f050064">#ffff7043</color>
+    <color name="APKTOOL_DUPLICATE_color_0x7f050065">#ffff5722</color>
+    <color name="APKTOOL_DUPLICATE_color_0x7f050066">@android:color/white</color>
+    <color name="APKTOOL_DUPLICATE_color_0x7f050067">@android:color/black</color>
+    <color name="APKTOOL_DUPLICATE_color_0x7f050068">#6680cbc4</color>
+    <color name="APKTOOL_DUPLICATE_color_0x7f050069">#66009688</color>
+    <color name="APKTOOL_DUPLICATE_color_0x7f050221">#ff80cbc4</color>
+    <color name="APKTOOL_DUPLICATE_color_0x7f050222">#ff008577</color>
+    <color name="APKTOOL_DUPLICATE_color_0x7f05026d">#fff5f5f5</color>
+    <color name="APKTOOL_DUPLICATE_color_0x7f05026f">#fffafafa</color>
+    <color name="APKTOOL_DUPLICATE_color_0x7f050270">#ff757575</color>
+    <color name="APKTOOL_DUPLICATE_color_0x7f050271">#ff424242</color>
+    <color name="APKTOOL_DUPLICATE_color_0x7f050272">#ff303030</color>
+    <color name="APKTOOL_DUPLICATE_color_0x7f050273">#ff212121</color>
+    <item type="color" name="APKTOOL_DUPLICATE_color_0x7f05027e">Obs/ۗۘ.xml</item>
+    <item type="color" name="APKTOOL_DUPLICATE_color_0x7f05027f">Obs/ۤۘ.xml</item>
+    <item type="color" name="APKTOOL_DUPLICATE_color_0x7f050280">Obs/ۛ۫.xml</item>
+    <item type="color" name="APKTOOL_DUPLICATE_color_0x7f050281">Obs/۬۠.xml</item>
+    <item type="color" name="APKTOOL_DUPLICATE_color_0x7f0502b6">Obs/ۨۚ.xml</item>
+    <item type="color" name="APKTOOL_DUPLICATE_color_0x7f0502b7">Obs/۠ۘ.xml</item>
+    <item type="color" name="APKTOOL_DUPLICATE_color_0x7f0502b8">Obs/ۗۥ.xml</item>
+    <item type="color" name="APKTOOL_DUPLICATE_color_0x7f0502b9">Obs/ۙۧ.xml</item>
+    <item type="color" name="APKTOOL_DUPLICATE_color_0x7f0502ba">Obs/ۘۤ.xml</item>
+    <item type="color" name="APKTOOL_DUPLICATE_color_0x7f0502bb">Obs/ۢۢ.xml</item>
+    <item type="color" name="APKTOOL_DUPLICATE_color_0x7f0502bc">Obs/ۙۘ.xml</item>
+    <item type="color" name="APKTOOL_DUPLICATE_color_0x7f0502bd">Obs/ۡۦ.xml</item>
+    <item type="color" name="APKTOOL_DUPLICATE_color_0x7f0502be">Obs/ۛۥ.xml</item>
+    <item type="color" name="APKTOOL_DUPLICATE_color_0x7f0502bf">Obs/ۖ۬.xml</item>
+    <item type="color" name="APKTOOL_DUPLICATE_color_0x7f0502c0">Obs/ۧۙ.xml</item>
+    <item type="color" name="APKTOOL_DUPLICATE_color_0x7f0502c1">Obs/ۗۗ.xml</item>
+    <item type="color" name="APKTOOL_DUPLICATE_color_0x7f0502c2">Obs/ۙۛ.xml</item>
+    <item type="color" name="APKTOOL_DUPLICATE_color_0x7f0502c3">Obs/ۢۜ.xml</item>
+    <item type="color" name="APKTOOL_DUPLICATE_color_0x7f0502c4">Obs/ۢ۟.xml</item>
+    <item type="color" name="APKTOOL_DUPLICATE_color_0x7f0502c5">Obs/ۤ۬.xml</item>
+    <item type="color" name="APKTOOL_DUPLICATE_color_0x7f0502c7">Obs/ۙۥ.xml</item>
+    <item type="color" name="APKTOOL_DUPLICATE_color_0x7f0502c9">Obs/ۚۥ.xml</item>
+    <item type="color" name="APKTOOL_DUPLICATE_color_0x7f0502ca">Obs/ۘۘ.xml</item>
+    <item type="color" name="APKTOOL_DUPLICATE_color_0x7f0502cb">Obs/ۗۙ.xml</item>
+    <item type="color" name="APKTOOL_DUPLICATE_color_0x7f0502cc">Obs/ۚۨ.xml</item>
+    <item type="color" name="APKTOOL_DUPLICATE_color_0x7f0502cd">Obs/ۦۨ.xml</item>
+    <item type="color" name="APKTOOL_DUPLICATE_color_0x7f0502ce">Obs/ۧۗ.xml</item>
+    <item type="color" name="APKTOOL_DUPLICATE_color_0x7f0502cf">Obs/ۤۖ.xml</item>
+    <item type="color" name="APKTOOL_DUPLICATE_color_0x7f0502d0">Obs/ۡۖ.xml</item>
+    <item type="color" name="APKTOOL_DUPLICATE_color_0x7f0502d1">Obs/ۖ۠.xml</item>
+    <item type="color" name="APKTOOL_DUPLICATE_color_0x7f0502d2">Obs/۠۟.xml</item>
+    <item type="color" name="APKTOOL_DUPLICATE_color_0x7f0502d3">Obs/ۛ۠.xml</item>
+    <item type="color" name="APKTOOL_DUPLICATE_color_0x7f0502d4">Obs/ۨۖ.xml</item>
+    <item type="color" name="APKTOOL_DUPLICATE_color_0x7f0502d5">Obs/ۙ۫.xml</item>
+    <item type="color" name="APKTOOL_DUPLICATE_color_0x7f0502d6">Obs/ۛۤ.xml</item>
+    <item type="color" name="APKTOOL_DUPLICATE_color_0x7f0502d7">Obs/ۡۥ.xml</item>
+    <item type="color" name="APKTOOL_DUPLICATE_color_0x7f0502d8">Obs/ۥۜ.xml</item>
+    <item type="color" name="APKTOOL_DUPLICATE_color_0x7f0502d9">Obs/۫ۙ.xml</item>
+    <item type="color" name="APKTOOL_DUPLICATE_color_0x7f0502da">Obs/ۢۛ.xml</item>
+    <item type="color" name="APKTOOL_DUPLICATE_color_0x7f0502db">Obs/ۨ۫.xml</item>
+    <item type="color" name="APKTOOL_DUPLICATE_color_0x7f0502de">Obs/ۚۗ.xml</item>
+    <item type="color" name="APKTOOL_DUPLICATE_color_0x7f0502df">Obs/ۡۡ.xml</item>
+    <item type="color" name="APKTOOL_DUPLICATE_color_0x7f0502e0">Obs/ۗۡ.xml</item>
+    <item type="color" name="APKTOOL_DUPLICATE_color_0x7f0502e1">Obs/ۘۦ.xml</item>
+    <item type="color" name="APKTOOL_DUPLICATE_color_0x7f0502e2">Obs/۟ۨ.xml</item>
+    <item type="color" name="APKTOOL_DUPLICATE_color_0x7f0502e3">Obs/ۥۛ.xml</item>
+    <item type="color" name="APKTOOL_DUPLICATE_color_0x7f0502e4">Obs/ۗۦ.xml</item>
+    <item type="color" name="APKTOOL_DUPLICATE_color_0x7f0502e5">Obs/۠ۦ.xml</item>
+    <item type="color" name="APKTOOL_DUPLICATE_color_0x7f0502e6">Obs/ۡ۬.xml</item>
+    <item type="color" name="APKTOOL_DUPLICATE_color_0x7f0502e7">Obs/ۢۚ.xml</item>
+    <color name="APKTOOL_DUPLICATE_color_0x7f0502e8">#52000000</color>
+    <item type="color" name="APKTOOL_DUPLICATE_color_0x7f0502ee">Obs/ۢۥ.xml</item>
+    <item type="color" name="APKTOOL_DUPLICATE_color_0x7f0502f0">Obs/ۛۨ.xml</item>
+    <item type="color" name="APKTOOL_DUPLICATE_color_0x7f0502f1">Obs/ۘۜ.xml</item>
+    <item type="color" name="APKTOOL_DUPLICATE_color_0x7f0502f2">Obs/ۧ۫.xml</item>
+    <color name="APKTOOL_DUPLICATE_color_0x7f0502f3">#6b000000</color>
+    <color name="APKTOOL_DUPLICATE_color_0x7f0502f4">#1f000000</color>
+    <color name="APKTOOL_DUPLICATE_color_0x7f0502f6">#00000000</color>
+    <color name="APKTOOL_DUPLICATE_color_0x7f0502f7">#de000000</color>
+    <color name="APKTOOL_DUPLICATE_color_0x7f0502f8">@color/APKTOOL_DUPLICATE_color_0x7f05001c</color>
+    <color name="APKTOOL_DUPLICATE_color_0x7f0502f9">#ff9e9e9e</color>
+    <color name="APKTOOL_DUPLICATE_color_0x7f0502fa">@android:color/black</color>
+    <color name="APKTOOL_DUPLICATE_color_0x7f0502fb">@color/APKTOOL_DUPLICATE_color_0x7f050270</color>
+    <color name="APKTOOL_DUPLICATE_color_0x7f0502fc">@color/APKTOOL_DUPLICATE_color_0x7f050273</color>
+    <color name="APKTOOL_DUPLICATE_color_0x7f0502fd">@color/APKTOOL_DUPLICATE_color_0x7f05026d</color>
+    <color name="APKTOOL_DUPLICATE_color_0x7f0502fe">#ffffffff</color>
+    <color name="APKTOOL_DUPLICATE_color_0x7f0502ff">#de000000</color>
+    <color name="APKTOOL_DUPLICATE_color_0x7f050300">#4dffffff</color>
+    <color name="APKTOOL_DUPLICATE_color_0x7f050301">#39000000</color>
+    <color name="APKTOOL_DUPLICATE_color_0x7f050302">#33ffffff</color>
+    <color name="APKTOOL_DUPLICATE_color_0x7f050303">#1f000000</color>
+    <color name="APKTOOL_DUPLICATE_color_0x7f050304">#b3ffffff</color>
+    <color name="APKTOOL_DUPLICATE_color_0x7f050305">#8a000000</color>
+    <color name="APKTOOL_DUPLICATE_color_0x7f050306">#36ffffff</color>
+    <color name="APKTOOL_DUPLICATE_color_0x7f050307">#24000000</color>
+    <color name="APKTOOL_DUPLICATE_color_0x7f050308">#ff616161</color>
+    <color name="APKTOOL_DUPLICATE_color_0x7f050309">#ffbdbdbd</color>
+    <item type="color" name="APKTOOL_DUPLICATE_color_0x7f05030a">Obs/۠ۗ.xml</item>
+    <item type="color" name="APKTOOL_DUPLICATE_color_0x7f05030b">Obs/ۗۨ.xml</item>
+    <color name="APKTOOL_DUPLICATE_color_0x7f05030c">#ffbdbdbd</color>
+    <color name="APKTOOL_DUPLICATE_color_0x7f05030d">#fff1f1f1</color>
+    <color name="APKTOOL_DUPLICATE_color_0x7f05030e">#e6616161</color>
+    <color name="APKTOOL_DUPLICATE_color_0x7f05030f">#e6ffffff</color>
+</resources>

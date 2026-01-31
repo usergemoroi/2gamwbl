@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0f002a">Contraer la hoja inferior</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0f002b">Expandir la hoja inferior</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0f002c">Expandir hasta la mitad</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0f002d">El control de arrastre se presionó dos veces</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0f002e">Controlador de arrastre</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0f0036">Caracteres ingresados: %1$d de %2$d</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0f0037">Se excedió en %1$d el límite de caracteres de %2$d</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0f003c">Borrar texto</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0f0048">Error</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0f004a">Mostrar menú desplegable</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0f0058">Pestaña</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0f0073">Selecciona a.m. o p.m.</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0f0081">a.m.</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0f0085">p.m.</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0f0092">Marcada</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0f0093">Verificado parcialmente</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0f0094">Sin marcar</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0f0095">Quitar %1$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0f0098">Cambiar al mes siguiente</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0f0099">Cambiar al mes anterior</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0f009d">Cancelar</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0f009e">Aceptar</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0f00a2">%1$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0f00a8">Navegar al año actual (%1$d)</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0f00a9">Navegar al año %1$d</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0f00b0">Guardar</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0f00b9">Cambiar al modo de entrada de calendario</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0f00ba">Presiona para cambiar a la vista de Calendario</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0f00bb">Cambiar al modo de entrada de texto</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0f00bc">Presiona para cambiar a la vista de año</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0f00d2">Mostrar contraseña</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0f00db">Borrar texto</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0f00dc">Atrás</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0f00dd">Hoja lateral</string>
+</resources>

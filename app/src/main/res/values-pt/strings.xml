@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="BhaiGaandMarao">Navegar para cima</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0f0003">Concluído</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0f0006">DESATIVADO</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0f0007">ATIVADO</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0f0008">Alt+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0f0009">Ctrl+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0f000a">delete</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0f000b">enter</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0f000c">Function+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0f000d">Meta+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0f000e">Shift+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0f000f">espaço</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0f0010">Sym+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0f0011">Menu+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0f0012">Pesquisar…</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0f0013">Limpar consulta</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0f0015">Pesquisar</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0f0016">Enviar consulta</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0f0017">Pesquisa por voz</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0f001a">Recolher</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0f00d9">Pesquisar</string>
+</resources>
