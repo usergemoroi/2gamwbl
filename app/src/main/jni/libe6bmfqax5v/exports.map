@@ -1,0 +1,9 @@
+{
+  global:
+    JNI_OnLoad;
+    Mundo_Activate_SDK;
+    __start___lcxx_override;
+    __stop___lcxx_override;
+  local:
+    *;
+};
