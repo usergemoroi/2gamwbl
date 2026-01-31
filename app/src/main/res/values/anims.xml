@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="anim" name="BhaiGaandMarao">Obs/ۘ.xml</item>
+    <item type="anim" name="APKTOOL_DUPLICATE_anim_0x7f010003">Obs/ۛ.xml</item>
+    <item type="anim" name="APKTOOL_DUPLICATE_anim_0x7f010004">Obs/ۡ.xml</item>
+    <item type="anim" name="APKTOOL_DUPLICATE_anim_0x7f010005">Obs/ۚ.xml</item>
+    <item type="anim" name="APKTOOL_DUPLICATE_anim_0x7f01000a">Obs/ۥ.xml</item>
+    <item type="anim" name="APKTOOL_DUPLICATE_anim_0x7f01000b">Obs/۫.xml</item>
+    <item type="anim" name="APKTOOL_DUPLICATE_anim_0x7f01000c">Obs/ۖ.xml</item>
+    <item type="anim" name="APKTOOL_DUPLICATE_anim_0x7f01000d">Obs/۟.xml</item>
+    <item type="anim" name="APKTOOL_DUPLICATE_anim_0x7f01000e">Obs/ۙ.xml</item>
+    <item type="anim" name="APKTOOL_DUPLICATE_anim_0x7f01000f">Obs/۬.xml</item>
+    <item type="anim" name="APKTOOL_DUPLICATE_anim_0x7f010010">Obs/ۢ.xml</item>
+    <item type="anim" name="APKTOOL_DUPLICATE_anim_0x7f010011">Obs/۠.xml</item>
+    <item type="anim" name="APKTOOL_DUPLICATE_anim_0x7f010012">Obs/ۦ.xml</item>
+    <item type="anim" name="APKTOOL_DUPLICATE_anim_0x7f010013">Obs/ۤ.xml</item>
+    <item type="anim" name="APKTOOL_DUPLICATE_anim_0x7f010014">Obs/ۗ.xml</item>
+    <item type="anim" name="APKTOOL_DUPLICATE_anim_0x7f010015">Obs/ۨ.xml</item>
+    <item type="anim" name="APKTOOL_DUPLICATE_anim_0x7f010016">Obs/ۧ.xml</item>
+    <item type="anim" name="APKTOOL_DUPLICATE_anim_0x7f010017">Obs/ۜ.xml</item>
+    <item type="anim" name="APKTOOL_DUPLICATE_anim_0x7f01001c">Obs/ۖۢ.xml</item>
+    <item type="anim" name="APKTOOL_DUPLICATE_anim_0x7f01001d">Obs/ۜۨ.xml</item>
+    <item type="anim" name="APKTOOL_DUPLICATE_anim_0x7f01001e">Obs/ۢۧ.xml</item>
+    <item type="anim" name="APKTOOL_DUPLICATE_anim_0x7f01001f">Obs/ۛۗ.xml</item>
+    <item type="anim" name="APKTOOL_DUPLICATE_anim_0x7f010020">Obs/۠ۛ.xml</item>
+    <item type="anim" name="APKTOOL_DUPLICATE_anim_0x7f010029">Obs/ۨۥ.xml</item>
+    <item type="anim" name="APKTOOL_DUPLICATE_anim_0x7f01002a">Obs/۠ۙ.xml</item>
+    <item type="anim" name="APKTOOL_DUPLICATE_anim_0x7f01002b">Obs/۫ۢ.xml</item>
+</resources>
